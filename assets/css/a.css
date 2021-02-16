@@ -1,0 +1,39 @@
+.pop a
+{
+	float: right;
+	right: 5%;
+	bottom: 5%;
+}
+.form-group input{
+	float: left;
+	margin: px;
+	width: 50%;
+}
+.m{
+	float: left;
+}
+.code{
+	float: right;
+}
+.recevier{
+	width: 100%;
+	float: left;
+}
+.sr label,
+.sr input{
+	width: 100%;
+}
+.sr{
+	width: 3%;
+}
+.border{
+	boder:10px solid black;
+}
+.mm td input{
+	width: 100%;
+}
+.kk input{
+	width: 100%;
+}
+
+
